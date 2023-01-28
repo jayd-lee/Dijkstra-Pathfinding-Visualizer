@@ -1,1 +1,1 @@
-# Dijkstra-s-Pathfinding-Visualizer
+# Dijkstra's Pathfinding Visualizer
